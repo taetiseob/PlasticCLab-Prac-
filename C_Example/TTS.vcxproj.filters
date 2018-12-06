@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11_14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printf_print.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="print_ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variouble.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ValDeclAndinit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleAddTwo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="opertatorOne.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorTwo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorthree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorfour.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorfive.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorsix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorseven.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="commaop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sinpleaddThree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleAddThree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitandoperation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOroperation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operationxor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitoperationNOT.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitoperationShift.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitrightshift.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="autotypeChange.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="convdiv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringPrintf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Formprintf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OCTHEX.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RealNumoutput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingPG.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingPs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FieldWidth.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfConvOne.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ScanfCOnvertwo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="simplewhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nineninedan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="infinityLoof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoTwonine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="excon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switchnonebreak.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gotobasic.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printfoutput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="simpleaddfunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartAddFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="numCompare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AbsoCompare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrayinit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Arraystring.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StartEndString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointeropration.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayParam.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayparamEccess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Call_by_valueSwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Call_by_referenceSwrap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwodementionArraySize.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="popuReseach.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwodimArrayaddress.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwodimArrayinit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeDimArraySize.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeDimArrayAcces.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublepointerAccese.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerSwapFail.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pinterSwapSucess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TripplePointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
